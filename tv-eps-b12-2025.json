@@ -1,0 +1,377 @@
+[
+    {
+        "korean": " 대중교통",
+        "vietnamese": " Giao thông công cộng",
+        "audio": "tv-eps-b12-2025-1.mp3"
+    },
+    {
+        "korean": " 교통수단 관련",
+        "vietnamese": " Liên quan đến giao thông",
+        "audio": "tv-eps-b12-2025-2.mp3"
+    },
+    {
+        "korean": " 마을버스",
+        "vietnamese": " Xe bus tuyến ngắn",
+        "audio": "tv-eps-b12-2025-3.mp3"
+    },
+    {
+        "korean": " 시내버스",
+        "vietnamese": " Xe bus nội thành",
+        "audio": "tv-eps-b12-2025-4.mp3"
+    },
+    {
+        "korean": " 시외",
+        "vietnamese": " Xe bus tốc hành",
+        "audio": "tv-eps-b12-2025-5.mp3"
+    },
+    {
+        "korean": " 고속버스",
+        "vietnamese": " Xe cao tốc",
+        "audio": "tv-eps-b12-2025-6.mp3"
+    },
+    {
+        "korean": " 택시",
+        "vietnamese": " Taxi",
+        "audio": "tv-eps-b12-2025-7.mp3"
+    },
+    {
+        "korean": " 기차",
+        "vietnamese": " Tàu hỏa",
+        "audio": "tv-eps-b12-2025-8.mp3"
+    },
+    {
+        "korean": " 고속 열차",
+        "vietnamese": " Tàu cao tốc (KTX)",
+        "audio": "tv-eps-b12-2025-9.mp3"
+    },
+    {
+        "korean": " 지하철",
+        "vietnamese": " Tàu điện ngầm",
+        "audio": "tv-eps-b12-2025-10.mp3"
+    },
+    {
+        "korean": " 비행기",
+        "vietnamese": " Máy bay",
+        "audio": "tv-eps-b12-2025-11.mp3"
+    },
+    {
+        "korean": " 배",
+        "vietnamese": " Tàu thuỷ",
+        "audio": "tv-eps-b12-2025-12.mp3"
+    },
+    {
+        "korean": " 자전거",
+        "vietnamese": " Xe đạp",
+        "audio": "tv-eps-b12-2025-13.mp3"
+    },
+    {
+        "korean": " 오토바이",
+        "vietnamese": " Xe máy",
+        "audio": "tv-eps-b12-2025-14.mp3"
+    },
+    {
+        "korean": " 버스 정류장",
+        "vietnamese": " Trạm dừng xe bus",
+        "audio": "tv-eps-b12-2025-15.mp3"
+    },
+    {
+        "korean": " 버스 터미널",
+        "vietnamese": " Bến xe bus",
+        "audio": "tv-eps-b12-2025-16.mp3"
+    },
+    {
+        "korean": " 기차역",
+        "vietnamese": " Ga tàu hỏa",
+        "audio": "tv-eps-b12-2025-17.mp3"
+    },
+    {
+        "korean": " 지하철역",
+        "vietnamese": " Ga tàu điện ngầm",
+        "audio": "tv-eps-b12-2025-18.mp3"
+    },
+    {
+        "korean": " 공항",
+        "vietnamese": " Sân bay",
+        "audio": "tv-eps-b12-2025-19.mp3"
+    },
+    {
+        "korean": " 어떻게",
+        "vietnamese": " Như thế nào",
+        "audio": "tv-eps-b12-2025-20.mp3"
+    },
+    {
+        "korean": " 번",
+        "vietnamese": " Lần, số, tuyến",
+        "audio": "tv-eps-b12-2025-21.mp3"
+    },
+    {
+        "korean": " 얼마나 걸리다",
+        "vietnamese": " Mất bao lâu",
+        "audio": "tv-eps-b12-2025-22.mp3"
+    },
+    {
+        "korean": " 트럭",
+        "vietnamese": " Xe tải",
+        "audio": "tv-eps-b12-2025-23.mp3"
+    },
+    {
+        "korean": " 쯤",
+        "vietnamese": " Khoảng",
+        "audio": "tv-eps-b12-2025-24.mp3"
+    },
+    {
+        "korean": " 이동 관련",
+        "vietnamese": " Liên quan đến di chuyển",
+        "audio": "tv-eps-b12-2025-25.mp3"
+    },
+    {
+        "korean": " 타고 가다",
+        "vietnamese": " Đi (bằng phương tiện)",
+        "audio": "tv-eps-b12-2025-26.mp3"
+    },
+    {
+        "korean": " 타고 오다",
+        "vietnamese": " Đến (bằng phương tiện)",
+        "audio": "tv-eps-b12-2025-27.mp3"
+    },
+    {
+        "korean": " 걸어가다",
+        "vietnamese": " Đi bộ",
+        "audio": "tv-eps-b12-2025-28.mp3"
+    },
+    {
+        "korean": " 걸어오다",
+        "vietnamese": " Đi bộ",
+        "audio": "tv-eps-b12-2025-29.mp3"
+    },
+    {
+        "korean": " 내리다",
+        "vietnamese": " Xuống",
+        "audio": "tv-eps-b12-2025-30.mp3"
+    },
+    {
+        "korean": " 갈아타다",
+        "vietnamese": " Đổi xe",
+        "audio": "tv-eps-b12-2025-31.mp3"
+    },
+    {
+        "korean": " 환 승하다",
+        "vietnamese": " Chuyển xe",
+        "audio": "tv-eps-b12-2025-32.mp3"
+    },
+    {
+        "korean": " 비지나다",
+        "vietnamese": " Qua, đi qua, trải qua",
+        "audio": "tv-eps-b12-2025-33.mp3"
+    },
+    {
+        "korean": " 걷다",
+        "vietnamese": " Đi bộ",
+        "audio": "tv-eps-b12-2025-34.mp3"
+    },
+    {
+        "korean": " 출근 시간",
+        "vietnamese": " Thời gian vào làm",
+        "audio": "tv-eps-b12-2025-35.mp3"
+    },
+    {
+        "korean": " 퇴근 시간",
+        "vietnamese": " Thời gian tan ca",
+        "audio": "tv-eps-b12-2025-36.mp3"
+    },
+    {
+        "korean": " 출퇴근 시간",
+        "vietnamese": " Giờ cao diểm",
+        "audio": "tv-eps-b12-2025-37.mp3"
+    },
+    {
+        "korean": " 차가 막히다",
+        "vietnamese": " Kẹt xe, tắc đường",
+        "audio": "tv-eps-b12-2025-38.mp3"
+    },
+    {
+        "korean": " 가깝다",
+        "vietnamese": " Gần",
+        "audio": "tv-eps-b12-2025-39.mp3"
+    },
+    {
+        "korean": " 멀다",
+        "vietnamese": " Xa",
+        "audio": "tv-eps-b12-2025-40.mp3"
+    },
+    {
+        "korean": " 늦다",
+        "vietnamese": " Muộn, trễ",
+        "audio": "tv-eps-b12-2025-41.mp3"
+    },
+    {
+        "korean": " 미안하디",
+        "vietnamese": " Xin lồi",
+        "audio": "tv-eps-b12-2025-42.mp3"
+    },
+    {
+        "korean": " 에서",
+        "vietnamese": " từ",
+        "audio": "tv-eps-b12-2025-43.mp3"
+    },
+    {
+        "korean": " 수단",
+        "vietnamese": " Phương tiện",
+        "audio": "tv-eps-b12-2025-44.mp3"
+    },
+    {
+        "korean": " (으)로",
+        "vietnamese": " Bằng",
+        "audio": "tv-eps-b12-2025-45.mp3"
+    },
+    {
+        "korean": " 기숙사",
+        "vietnamese": " Ký túc xá",
+        "audio": "tv-eps-b12-2025-46.mp3"
+    },
+    {
+        "korean": " 태국",
+        "vietnamese": " Thái Lan",
+        "audio": "tv-eps-b12-2025-47.mp3"
+    },
+    {
+        "korean": " 시내",
+        "vietnamese": " Nội thành",
+        "audio": "tv-eps-b12-2025-48.mp3"
+    },
+    {
+        "korean": " 병원",
+        "vietnamese": " Bệnh viện",
+        "audio": "tv-eps-b12-2025-49.mp3"
+    },
+    {
+        "korean": " 날씨가 덥다",
+        "vietnamese": " Thời tiết nóng",
+        "audio": "tv-eps-b12-2025-50.mp3"
+    },
+    {
+        "korean": " 비가 많이 오다",
+        "vietnamese": " Trời mưa nhiều",
+        "audio": "tv-eps-b12-2025-51.mp3"
+    },
+    {
+        "korean": " 집이 가깝다",
+        "vietnamese": " Nhà gần",
+        "audio": "tv-eps-b12-2025-52.mp3"
+    },
+    {
+        "korean": " 값이 싸다",
+        "vietnamese": " Giá rẻ",
+        "audio": "tv-eps-b12-2025-53.mp3"
+    },
+    {
+        "korean": " 날씨가 좋다",
+        "vietnamese": " Thời tiết tốt, thời tiết đẹp",
+        "audio": "tv-eps-b12-2025-54.mp3"
+    },
+    {
+        "korean": " 음식이 맛있다",
+        "vietnamese": " Món ăn ngon",
+        "audio": "tv-eps-b12-2025-55.mp3"
+    },
+    {
+        "korean": " 버스를 타다",
+        "vietnamese": " Đi xe bus",
+        "audio": "tv-eps-b12-2025-56.mp3"
+    },
+    {
+        "korean": " 괜찮다",
+        "vietnamese": " Không sao, ốn",
+        "audio": "tv-eps-b12-2025-57.mp3"
+    },
+    {
+        "korean": " 얼마나 걸리다",
+        "vietnamese": " Mất bao lâu",
+        "audio": "tv-eps-b12-2025-58.mp3"
+    },
+    {
+        "korean": " 라서",
+        "vietnamese": " Vì là",
+        "audio": "tv-eps-b12-2025-59.mp3"
+    },
+    {
+        "korean": " 피곤하다",
+        "vietnamese": " Mệt",
+        "audio": "tv-eps-b12-2025-60.mp3"
+    },
+    {
+        "korean": " 일찍",
+        "vietnamese": " Sớm",
+        "audio": "tv-eps-b12-2025-61.mp3"
+    },
+    {
+        "korean": " 즐겁다",
+        "vietnamese": " Vui vẻ, thích thú",
+        "audio": "tv-eps-b12-2025-62.mp3"
+    },
+    {
+        "korean": " 출근하다",
+        "vietnamese": " Đi làm",
+        "audio": "tv-eps-b12-2025-63.mp3"
+    },
+    {
+        "korean": " 멋있다",
+        "vietnamese": " Phong độ, đẹp, ngầu",
+        "audio": "tv-eps-b12-2025-64.mp3"
+    },
+    {
+        "korean": " 기차표",
+        "vietnamese": " Vé tàu hỏa",
+        "audio": "tv-eps-b12-2025-65.mp3"
+    },
+    {
+        "korean": " 승차권",
+        "vietnamese": " Vé xe, vé đi tàu xe",
+        "audio": "tv-eps-b12-2025-66.mp3"
+    },
+    {
+        "korean": " 가격",
+        "vietnamese": " Giá",
+        "audio": "tv-eps-b12-2025-67.mp3"
+    },
+    {
+        "korean": " 출발하다",
+        "vietnamese": " Khởi hành, xuất phát",
+        "audio": "tv-eps-b12-2025-68.mp3"
+    },
+    {
+        "korean": " 넘다",
+        "vietnamese": " Vượt quá, qua, vượt qua",
+        "audio": "tv-eps-b12-2025-69.mp3"
+    },
+    {
+        "korean": " 예매하다",
+        "vietnamese": " Đặt mua",
+        "audio": "tv-eps-b12-2025-70.mp3"
+    },
+    {
+        "korean": " 빠르다",
+        "vietnamese": " Nhanh",
+        "audio": "tv-eps-b12-2025-71.mp3"
+    },
+    {
+        "korean": " 편리하다",
+        "vietnamese": " Tiện",
+        "audio": "tv-eps-b12-2025-72.mp3"
+    },
+    {
+        "korean": " 요금",
+        "vietnamese": " Phí",
+        "audio": "tv-eps-b12-2025-73.mp3"
+    },
+    {
+        "korean": " 일반 열차",
+        "vietnamese": " Tàu thông thường",
+        "audio": "tv-eps-b12-2025-74.mp3"
+    },
+    {
+        "korean": " 호선",
+        "vietnamese": " Tuyến số",
+        "audio": "tv-eps-b12-2025-75.mp3"
+    }
+]

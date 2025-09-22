@@ -1,0 +1,262 @@
+[
+    {
+        "korean": " 길 찾기",
+        "vietnamese": " Tìm đường",
+        "audio": "tv-eps-b14-2025-1.mp3"
+    },
+    {
+        "korean": " 위치",
+        "vietnamese": " Vị trí",
+        "audio": "tv-eps-b14-2025-2.mp3"
+    },
+    {
+        "korean": " 방향",
+        "vietnamese": " Phương hướng",
+        "audio": "tv-eps-b14-2025-3.mp3"
+    },
+    {
+        "korean": " 위치",
+        "vietnamese": " Vị trí",
+        "audio": "tv-eps-b14-2025-4.mp3"
+    },
+    {
+        "korean": " 방향",
+        "vietnamese": " Phương hướng",
+        "audio": "tv-eps-b14-2025-5.mp3"
+    },
+    {
+        "korean": " 위",
+        "vietnamese": " Trên",
+        "audio": "tv-eps-b14-2025-6.mp3"
+    },
+    {
+        "korean": " 아래",
+        "vietnamese": " Dưới (1)",
+        "audio": "tv-eps-b14-2025-7.mp3"
+    },
+    {
+        "korean": " 밑",
+        "vietnamese": " Dưới (2)",
+        "audio": "tv-eps-b14-2025-8.mp3"
+    },
+    {
+        "korean": " 앞",
+        "vietnamese": " Trước",
+        "audio": "tv-eps-b14-2025-9.mp3"
+    },
+    {
+        "korean": " 뒤",
+        "vietnamese": " Sau",
+        "audio": "tv-eps-b14-2025-10.mp3"
+    },
+    {
+        "korean": " 안",
+        "vietnamese": " Trong",
+        "audio": "tv-eps-b14-2025-11.mp3"
+    },
+    {
+        "korean": " 밖",
+        "vietnamese": " Ngoài",
+        "audio": "tv-eps-b14-2025-12.mp3"
+    },
+    {
+        "korean": " 옆",
+        "vietnamese": " Bên cạnh",
+        "audio": "tv-eps-b14-2025-13.mp3"
+    },
+    {
+        "korean": " 사이",
+        "vietnamese": " Ở giữa (2 sự vật), khoảng cách",
+        "audio": "tv-eps-b14-2025-14.mp3"
+    },
+    {
+        "korean": " 건너편",
+        "vietnamese": " Đối diện (1)",
+        "audio": "tv-eps-b14-2025-15.mp3"
+    },
+    {
+        "korean": " 맞은편",
+        "vietnamese": " Đối diện (2)",
+        "audio": "tv-eps-b14-2025-16.mp3"
+    },
+    {
+        "korean": " 왼쪽",
+        "vietnamese": " Bên trái",
+        "audio": "tv-eps-b14-2025-17.mp3"
+    },
+    {
+        "korean": " 오른쪽",
+        "vietnamese": " Bên phải",
+        "audio": "tv-eps-b14-2025-18.mp3"
+    },
+    {
+        "korean": " 이쪽",
+        "vietnamese": " Hướng này",
+        "audio": "tv-eps-b14-2025-19.mp3"
+    },
+    {
+        "korean": " 저쪽",
+        "vietnamese": " Hướng kia",
+        "audio": "tv-eps-b14-2025-20.mp3"
+    },
+    {
+        "korean": " 그쪽",
+        "vietnamese": " Hướng đó",
+        "audio": "tv-eps-b14-2025-21.mp3"
+    },
+    {
+        "korean": " 어느쪽",
+        "vietnamese": " Bên nào",
+        "audio": "tv-eps-b14-2025-22.mp3"
+    },
+    {
+        "korean": " 충",
+        "vietnamese": " Tầng",
+        "audio": "tv-eps-b14-2025-23.mp3"
+    },
+    {
+        "korean": " 기분이 좋다",
+        "vietnamese": " Tâm trạng tốt",
+        "audio": "tv-eps-b14-2025-24.mp3"
+    },
+    {
+        "korean": " 이동 동사",
+        "vietnamese": " Động từ di chuyển",
+        "audio": "tv-eps-b14-2025-25.mp3"
+    },
+    {
+        "korean": " 내려가다",
+        "vietnamese": " Đi xuống (người nói không có mặt ở đó)",
+        "audio": "tv-eps-b14-2025-26.mp3"
+    },
+    {
+        "korean": " 내려오다",
+        "vietnamese": " Đi xuống (người nói có mặt ở đó)",
+        "audio": "tv-eps-b14-2025-27.mp3"
+    },
+    {
+        "korean": " 올라가다",
+        "vietnamese": " Đi lên (người nói không có mặt ở đó)",
+        "audio": "tv-eps-b14-2025-28.mp3"
+    },
+    {
+        "korean": " 올라오다",
+        "vietnamese": " Đi lên (người nói có mặt ở đó)",
+        "audio": "tv-eps-b14-2025-29.mp3"
+    },
+    {
+        "korean": " 들어가다",
+        "vietnamese": " Đi vào (người nói không có mặt ở đó)",
+        "audio": "tv-eps-b14-2025-30.mp3"
+    },
+    {
+        "korean": " 들어오다",
+        "vietnamese": " Đi vào (người nói có mặt ở đó)",
+        "audio": "tv-eps-b14-2025-31.mp3"
+    },
+    {
+        "korean": " 나가다",
+        "vietnamese": " Đi ra (người nói không có mặt ở đó)",
+        "audio": "tv-eps-b14-2025-32.mp3"
+    },
+    {
+        "korean": " 나오다",
+        "vietnamese": " Đi ra (người nói có mặt ở đó)",
+        "audio": "tv-eps-b14-2025-33.mp3"
+    },
+    {
+        "korean": " 건너가다",
+        "vietnamese": " Đi qua, băng qua",
+        "audio": "tv-eps-b14-2025-34.mp3"
+    },
+    {
+        "korean": " 횡단보도",
+        "vietnamese": " Lối sang đường, đường đi bộ",
+        "audio": "tv-eps-b14-2025-35.mp3"
+    },
+    {
+        "korean": " 육교",
+        "vietnamese": " Cầu vượt",
+        "audio": "tv-eps-b14-2025-36.mp3"
+    },
+    {
+        "korean": " 옥상",
+        "vietnamese": " Sân thượng",
+        "audio": "tv-eps-b14-2025-37.mp3"
+    },
+    {
+        "korean": " 지하",
+        "vietnamese": " Tầng hầm",
+        "audio": "tv-eps-b14-2025-38.mp3"
+    },
+    {
+        "korean": " 근처",
+        "vietnamese": " Gần",
+        "audio": "tv-eps-b14-2025-39.mp3"
+    },
+    {
+        "korean": " 사거리",
+        "vietnamese": " Ngã tư",
+        "audio": "tv-eps-b14-2025-40.mp3"
+    },
+    {
+        "korean": " 마트",
+        "vietnamese": " Siêu thị",
+        "audio": "tv-eps-b14-2025-41.mp3"
+    },
+    {
+        "korean": " 출근하다",
+        "vietnamese": " Đi làm",
+        "audio": "tv-eps-b14-2025-42.mp3"
+    },
+    {
+        "korean": " 생일 파티",
+        "vietnamese": " Tiệc sinh nhật",
+        "audio": "tv-eps-b14-2025-43.mp3"
+    },
+    {
+        "korean": " 도로명",
+        "vietnamese": " Tên đường",
+        "audio": "tv-eps-b14-2025-44.mp3"
+    },
+    {
+        "korean": " 주소",
+        "vietnamese": " Địa chỉ",
+        "audio": "tv-eps-b14-2025-45.mp3"
+    },
+    {
+        "korean": " 기준",
+        "vietnamese": " Tiêu chuẩn",
+        "audio": "tv-eps-b14-2025-46.mp3"
+    },
+    {
+        "korean": " 표기하다",
+        "vietnamese": " Ghi, biếu thị",
+        "audio": "tv-eps-b14-2025-47.mp3"
+    },
+    {
+        "korean": " 파악하다",
+        "vietnamese": " Nầm bắt",
+        "audio": "tv-eps-b14-2025-48.mp3"
+    },
+    {
+        "korean": " 방식",
+        "vietnamese": " Phương thức",
+        "audio": "tv-eps-b14-2025-49.mp3"
+    },
+    {
+        "korean": " 단위",
+        "vietnamese": " Đơn vị",
+        "audio": "tv-eps-b14-2025-50.mp3"
+    },
+    {
+        "korean": " 순서",
+        "vietnamese": " Thứ tự, trình tự",
+        "audio": "tv-eps-b14-2025-51.mp3"
+    },
+    {
+        "korean": " 나중에",
+        "vietnamese": " Sau này",
+        "audio": "tv-eps-b14-2025-52.mp3"
+    }
+]
